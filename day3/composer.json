@@ -1,0 +1,7 @@
+{
+
+ "autoload": {
+    "classmap": ["classes/counter.php"],
+ "files": ["config.php"]}
+
+ }
